@@ -1,0 +1,14 @@
+<people>
+<person id='0'>
+<name>John Smith</name>
+<address>USA</address>
+</person>
+<person id='1'>
+<name>Ivan Petrov</name>
+<address>Bulgaria</address>
+</person>
+<person id='2'>
+<name>Petur Smith</name>
+<address>USA</address>
+</person>
+</people>
